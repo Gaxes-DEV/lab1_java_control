@@ -1,3 +1,3 @@
-# lab1_java
+# lab1_java - Controlador
 
 #Fabián Segura Irigaray
